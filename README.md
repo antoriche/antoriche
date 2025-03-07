@@ -1,7 +1,8 @@
 # Hi there! 👋
 
 I'm **Antonin Riche**, a **Fullstack Engineer** passionate about crafting web applications with modern technologies.  
-I specialize in working with **TypeScript** technologies and loves learning new tech-related stuff.
+The professional projects I develop are often **data visualization applications** and I enjoy building tools that drive insights and efficiency.  
+I specialize in working with **Typescript** technologies and loves learning new tech-related stuff.
 
 ### 🔥 What I'm working on:
 
