@@ -9,6 +9,7 @@ Most of my projects are private, but I have worked on impactful applications suc
 
 - A **data exploration tool** to monitor investments in the **energy transition** across Europe ⚡
 - An **overcrowd prevention system** to predict queue times in **airports** ✈️
+- A military fleet management system for cybersecurity operations 🛡️
 
 I also enjoy coding my own projects for fun and experimentation:
 
