@@ -15,7 +15,7 @@ I also enjoy coding my own projects for fun and experimentation:
 
 - [Travle](https://antoriche.github.io/Travle) 🎮 – A small game where players must find the shortest path between two countries ([code](https://github.com/antoriche/Travle))
 - [Brussels Running Challenge](https://d3ht7h1oliroyy.cloudfront.net) 🏃 – A challenge tracker using Strava activities to show the percentage of Brussels covered ([code](https://github.com/antoriche/brussels-running-challenge))
-- [Alarm](https://github.com/antoriche/alarm) ⏰ – A small alarm management app (not deployed)
+- Alarm ⏰ – A small alarm management app ([code](https://github.com/antoriche/alarm) - not deployed)
 
 ### 📫 Let's Connect:
 
