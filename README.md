@@ -15,6 +15,8 @@ Most of my projects are private, but I have worked on impactful applications suc
 - An **overcrowd prevention system** to predict queue times in **airports** ✈️
 - A **military fleet management system** for **cybersecurity operations** 🛡️
 
+[Here are some anonymized screenshots](https://github.com/antoriche/antoriche/tree/main/Portfolio)
+
 I also enjoy coding my own projects for fun and experimentation:
 
 - [Travle](https://antoriche.github.io/Travle) 🎮 – A small game where players must find the shortest path between two countries ([code](https://github.com/antoriche/Travle))
