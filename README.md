@@ -1,27 +1,10 @@
-# Hi there! 👋
+# Hi there! 👋 I'm Antonin Riche
 
-I'm **Antonin Riche**, a **Fullstack Engineer** passionate about crafting web applications with modern technologies.  
-The professional projects I develop are often **data visualization applications** and I enjoy building tools that drive insights and efficiency.  
-I specialize in working with **Typescript** technologies and loves learning new tech-related stuff.
+a **Fullstack Engineer** passionate about crafting web applications with modern technologies.  
+I make data actionable - building **data visualization tools** that drive insights and efficiency.
+I'm an **AI-enthousiast** ! I leverage it to accelerate learning, explore new dev practices, and generate meaningful insights.
 
 *Let's Connect !*  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonin-riche-a62b97145/)
-
-
-### 🔥 What I'm working on:
-
-I have worked on impactful applications such as:
-
-- A **data intelligence platform** to monitor investments of the **European energy transition**  ⚡
-- An **AI-driven crowd analytics systems** deployed at international airports, reducing passenger wait times through predictive queue modeling ✈️
-- A **military fleet management dashboard** for **cybersecurity operations** 🛡️
-
-[Here are some anonymized screenshots](https://github.com/antoriche/antoriche/tree/main/Portfolio)
-
-I also enjoy coding my own projects for fun and experimentation:
-
-- [Travle](https://antoriche.github.io/Travle) 🎮 – A small game where players must find the shortest path between two countries ([code](https://github.com/antoriche/Travle))
-- [Brussels Running Challenge](https://d3ht7h1oliroyy.cloudfront.net) 🏃 – A challenge tracker using Strava activities to show the percentage of Brussels covered ([code](https://github.com/antoriche/brussels-running-challenge))
-- Alarm ⏰ – A small alarm management app ([code](https://github.com/antoriche/alarm) - not deployed)
 
 ### 💻 Tech Stack:
 My favorite tech stack includes  
@@ -33,8 +16,10 @@ My favorite tech stack includes
 ![Serverless Framework](https://img.shields.io/badge/-Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 
-but also proficient with  
+but also...  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Github Copilot](https://img.shields.io/badge/Copilot-black?style=for-the-badge&logo=githubcopilot)
+![Claude](https://img.shields.io/badge/Claude-c15f3c?style=for-the-badge&logo=anthropic)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) 
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
@@ -60,25 +45,3 @@ but also proficient with
 ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-
-### 📊 GitHub Stats:
-<!--![](https://github-readme-stats.vercel.app/api?username=antoriche&hide_border=true&include_all_commits=true&count_private=true)-->
-![](https://nirzak-streak-stats.vercel.app/?user=antoriche&hide_border=true)
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antoriche&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
-
-<!--
-**antoriche/antoriche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
