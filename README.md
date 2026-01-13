@@ -4,8 +4,6 @@ a **Fullstack Engineer** passionate about crafting web applications with modern 
 I make data actionable - building **data visualization tools** that drive insights and efficiency.  
 I'm an **AI-enthusiast** ! I leverage it to accelerate learning, explore new dev practices, and generate meaningful insights.  
   
-*Let's Connect !*  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/antonin-riche-a62b97145/)
-
 ### 💻 Tech Stack:
 My favorite tech stack includes  
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
